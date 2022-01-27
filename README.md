@@ -16,3 +16,6 @@
 
 #### Run the app
 ```npm start```
+
+#### Postman documentation
+```https://documenter.getpostman.com/view/9519518/UVeAvp5w```
