@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "morgan": "^1.10.0"
+  },
+  "name": "waitlist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=development nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crud-engr/waitlist.git"
+  },
+  "author": "Abeeb Ayinla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crud-engr/waitlist/issues"
+  },
+  "homepage": "https://github.com/crud-engr/waitlist#readme"
+}
